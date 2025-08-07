@@ -12,7 +12,7 @@ function listaDeAmigos(){
         lista.appendChild(item);
     }
     //con este console.log puedo ir viendo como el array se va poblando
-    //console.log(amigos);
+    console.log(amigos);
 }
 
 //Aquí va a ir el obtener el imput y el botón con sus IDs
