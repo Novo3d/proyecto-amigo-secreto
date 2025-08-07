@@ -35,3 +35,20 @@ function agregarAmigo(){
     }
 }
 
+//Esta es la función encargada de sortear el nombre del amigo secreto
+function sortearAmigo(){
+
+    if (amigos.length === 0) {
+        alert('No hay amigos para sortear. ¡Agrega a tus amigos primero!'); //solo en caso de estar vacío muestra esto
+        return; //Esto saca de la función
+    }
+
+//Genera el indice aleatorio    
+const indiceAleatorio = Math.floor(Math.random() * amigos.length);
+//Se obtiene el nombre sorteado
+const amigoSorteado = amigos[indiceAleatorio];
+//muestra el resultado sorteado
+const resultadoElemento = document.getElementById("resultado");
+resultadoElemento.innerHTML = `<p> class="amigo-sorteado">¡El amigo secreto sorteado es: <strong>${amigoSorteado}</strong>!</p>`;
+
+}
