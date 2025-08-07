@@ -33,3 +33,14 @@
 
 <img width="1217" height="879" alt="image" src="https://github.com/user-attachments/assets/0b91a750-f97a-4f3d-83a6-076a1433b6a7" />
 
+<h2>"Acceso al proyecto"</h2>
+<p>En esta sección encontrarás las indicaciones de como acceder al proyecto y de como descargarlo</p>
+
+\## 📁 Acceso al proyecto
+**Presiona el badget static que dice "Accede aquí"** <br>
+\## 🛠️ Abre y ejecuta el proyecto
+**Presiona el badget static que dice "Ejecuta proyecto"**
+
+
+
+
