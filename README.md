@@ -36,8 +36,11 @@
 <h2>"Acceso al proyecto"</h2>
 <p>En esta sección encontrarás las indicaciones de como acceder al proyecto y de como descargarlo</p>
 
-\## 📁 Acceso al proyecto
-**Presiona el badget static que dice "Accede aquí"** <br>
+\## 📁 Acceso al proyecto<br>
+**Presiona el badget static que dice:**
+[![Acceso Proyecto](https://img.shields.io/badge/Acceso%20Proyecto-Aqu%C3%AD-red?style=flat)](https://github.com/Novo3d/proyecto-amigo-secreto)
+
+<br>
 \## 🛠️ Abre y ejecuta el proyecto
 **Presiona el badget static que dice "Ejecuta proyecto"**
 
