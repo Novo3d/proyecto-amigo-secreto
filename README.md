@@ -47,5 +47,10 @@
 [![Juega](https://img.shields.io/badge/Juega-Aqu%C3%AD-yellow?style=flat)](https://novo3d.github.io/proyecto-amigo-secreto/)
 
 
+<h2>"Construido con 🛠️"</h2>
 
+![Static Badge](https://img.shields.io/badge/Estilo-Css-blue?style=flat) ![Static Badge](https://img.shields.io/badge/Estructura-Html-white?style=flat) ![Static Badge](https://img.shields.io/badge/L%C3%B3gica-JavaScript-red?style=flat)
 
+<h2>"Autor "The machine"</h2>
+<P>Developed by Sebastián Novoa</P>
+<img src="https://media.licdn.com/dms/image/v2/D4E03AQHQEktoc9EsMg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1711674967642?e=1757548800&v=beta&t=xOf2Poi7eeJEiWE-UVk8jTMlwY0prVuUJ9FSelcEknU"/>
