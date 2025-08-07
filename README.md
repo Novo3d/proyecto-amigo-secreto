@@ -41,8 +41,10 @@
 [![Acceso Proyecto](https://img.shields.io/badge/Acceso%20Proyecto-Aqu%C3%AD-red?style=flat)](https://github.com/Novo3d/proyecto-amigo-secreto)
 
 <br>
-\## 🛠️ Abre y ejecuta el proyecto
-**Presiona el badget static que dice "Ejecuta proyecto"**
+
+\## 🛠️ Abre y ejecuta el proyecto <br>
+**Presiona el badget static que dice:**
+[![Juega](https://img.shields.io/badge/Juega-Aqu%C3%AD-yellow?style=flat)](https://novo3d.github.io/proyecto-amigo-secreto/)
 
 
 
